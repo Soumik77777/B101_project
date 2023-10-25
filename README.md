@@ -1,4 +1,3 @@
-# B101 Project
 We had a fun project in our B101 course at niser, where we had to come up with some new ideas in any field of biology. The diverse team included people from all of mainstream basic sciences and we really enjoyed presenting our ideas on treating atherosclerotic diseases.
 
 
